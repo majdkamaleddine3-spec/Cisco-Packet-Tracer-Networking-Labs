@@ -1,0 +1,11 @@
+04-OSPF-Dynamic-Routing/
+│
+├── README.md
+├── OSPF-Dynamic-Routing.pkt
+│
+└── screenshots/
+    ├── topology.png
+    ├── ospf-neighbors.png
+    ├── ospf-routing-table.png
+    ├── successful-ping.png
+    └── route-recovery.png
